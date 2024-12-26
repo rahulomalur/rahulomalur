@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying in my 5th semester in IIITD
 - 💞️ I’m looking to collaborate on Machine Learning and Data Analysis projects especially in the audio field
 - 📫 How to reach me rahul22392@iiitd.ac.in
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a huge fan of music and instruments
 
 <!---
