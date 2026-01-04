@@ -2,7 +2,7 @@
 
 **AI Researcher & Software Engineer | IIIT Delhi '26**
 
-I am a Computer Science and Artificial Intelligence student at IIIT Delhi, specializing in the intersection of Large Language Models, Robotics, and predictive modeling. My work focuses on building multi-agent systems and intent-aware frameworks to solve complex, high-dimensional optimization problems.
+Computer Science and Artificial Intelligence undergraduate with a passion for machine learning, software development, and innovative technology solutions. Experienced in developing applications across various domains including music technology, sports analytics, and web development.
 
 ---
 
@@ -21,8 +21,8 @@ I am a Computer Science and Artificial Intelligence student at IIIT Delhi, speci
 
 ## 📈 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul14052004&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul14052004&layout=compact&theme=tokyonight)
 
 ---
 
@@ -33,9 +33,9 @@ I am a Computer Science and Artificial Intelligence student at IIIT Delhi, speci
 * **CodePlex Technologies** | *Software Engineer Intern*
   * Engineered automated web-scraping pipelines and large-scale data migration systems using Laravel and PHP.
 
-## 🎓 Education & Service
+## 🎓 Education
 * **IIIT Delhi**: B.Tech in CSE & AI (CGPA: 8.69)
-* **National Service Scheme (NSS)**: Completed 80 hours of community service and mentorship for underserved communities.
+
 
 ---
 
