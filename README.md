@@ -21,8 +21,8 @@ Computer Science and Artificial Intelligence undergraduate with a passion for ma
 
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul14052004&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahul14052004&layout=compact&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rahulomalur&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulomalur&layout=compact&theme=tokyonight)
 
 ---
 
