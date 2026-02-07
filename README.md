@@ -6,7 +6,7 @@ Computer Science and Artificial Intelligence undergraduate with a passion for ma
 
 ---
 
-## 🛠 Arsenal
+## Arsenal
 
 ### **AI & Machine Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -19,22 +19,14 @@ Computer Science and Artificial Intelligence undergraduate with a passion for ma
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rahulomalur&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulomalur&layout=compact&theme=tokyonight)
 
 ---
 
-## 💼 Professional Experience
 
-* **TCS Research & Innovation** | *Machine Learning Intern*
-  * Developing predictive models for Coronary Artery Disease (CAD) risk assessment using ECG signal processing and clinical metadata analysis.
-* **CodePlex Technologies** | *Software Engineer Intern*
-  * Engineered automated web-scraping pipelines and large-scale data migration systems using Laravel and PHP.
-
-## 🎓 Education
-* **IIIT Delhi**: B.Tech in CSE & AI (CGPA: 8.69)
 
 
 ---
